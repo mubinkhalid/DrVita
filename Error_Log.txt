@@ -1,0 +1,4 @@
+/*
+	This file will contain all the error logs happend while crawling.
+*/
+_________________________________________________________________________________
